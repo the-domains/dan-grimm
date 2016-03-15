@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Dan Grimm]]></title>
         <description><![CDATA[Dan Grimm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.dangrimm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 02:07:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 19:17:18 GMT</lastBuildDate>
+        <atom:link href="http://www.dangrimm.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://www.dangrimm.com/f3909e80-6b31-4308-b8da-e034493131b3/index.html</link>
+            <guid isPermaLink="false">f3909e80-6b31-4308-b8da-e034493131b3</guid>
+            <pubDate>Tue, 15 Mar 2016 19:17:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Looking forward to trying The Grid Beta.  More to come...</p>]]></description>
-            <link>undefinedfdd44153-5af8-4aeb-940b-6bb397afa218/index.html</link>
+            <link>http://www.dangrimm.com/fdd44153-5af8-4aeb-940b-6bb397afa218/index.html</link>
             <guid isPermaLink="false">fdd44153-5af8-4aeb-940b-6bb397afa218</guid>
             <pubDate>Mon, 14 Mar 2016 02:07:29 GMT</pubDate>
         </item>
