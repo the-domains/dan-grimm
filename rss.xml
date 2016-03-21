@@ -4,10 +4,18 @@
         <description><![CDATA[Dan Grimm]]></description>
         <link>http://www.dangrimm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 19:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 15:29:59 GMT</lastBuildDate>
         <atom:link href="http://www.dangrimm.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>DNS changes are live but am somehow missing a redirect....</p>]]></description>
+            <link>http://www.dangrimm.com/045abc6b-b4da-431b-ba7d-6268b777e8dc/index.html</link>
+            <guid isPermaLink="false">045abc6b-b4da-431b-ba7d-6268b777e8dc</guid>
+            <pubDate>Mon, 21 Mar 2016 15:29:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The downside to this is making DNS changes and waiting 24 hours or so to make sure they are working.</p>]]></description>
             <link>http://www.dangrimm.com/f3909e80-6b31-4308-b8da-e034493131b3/index.html</link>
             <guid isPermaLink="false">f3909e80-6b31-4308-b8da-e034493131b3</guid>
             <pubDate>Tue, 15 Mar 2016 19:17:03 GMT</pubDate>
