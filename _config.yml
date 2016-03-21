@@ -1,9 +1,7 @@
-favicon: null
 name: Dan Grimm
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.14466
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4329387575853616
-  brandStrength: 0.1105641096364707
-  rhythmicContrast: 0.9251470104791224
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  brandStrength: 0.1105641096364707
   lightness: 0.2174460801761597
-typography_spectrum: 0.14466
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.4329387575853616
+  rhythmicContrast: 0.9251470104791224
+purpose: []
