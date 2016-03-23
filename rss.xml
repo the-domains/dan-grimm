@@ -2,28 +2,35 @@
     <channel>
         <title><![CDATA[Dan Grimm]]></title>
         <description><![CDATA[Dan Grimm]]></description>
-        <link>http://www.dangrimm.com/</link>
+        <link>http://dangrimm.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 15:29:59 GMT</lastBuildDate>
-        <atom:link href="http://www.dangrimm.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 13:29:09 GMT</lastBuildDate>
+        <atom:link href="http://dangrimm.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>DNS changes are live / redirects are working.  Now to really test drive The Grid Beta.  Is this turning into a blog?</p>]]></description>
+            <link>http://dangrimm.com/c7c77183-4399-44f6-a4dc-4130dde191ae/index.html</link>
+            <guid isPermaLink="false">c7c77183-4399-44f6-a4dc-4130dde191ae</guid>
+            <pubDate>Wed, 23 Mar 2016 13:29:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>DNS changes are live but am somehow missing a redirect....</p>]]></description>
-            <link>http://www.dangrimm.com/045abc6b-b4da-431b-ba7d-6268b777e8dc/index.html</link>
+            <link>http://dangrimm.com/045abc6b-b4da-431b-ba7d-6268b777e8dc/index.html</link>
             <guid isPermaLink="false">045abc6b-b4da-431b-ba7d-6268b777e8dc</guid>
             <pubDate>Mon, 21 Mar 2016 15:29:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The downside to this is making DNS changes and waiting 24 hours or so to make sure they are working.</p>]]></description>
-            <link>http://www.dangrimm.com/f3909e80-6b31-4308-b8da-e034493131b3/index.html</link>
+            <link>http://dangrimm.com/f3909e80-6b31-4308-b8da-e034493131b3/index.html</link>
             <guid isPermaLink="false">f3909e80-6b31-4308-b8da-e034493131b3</guid>
             <pubDate>Tue, 15 Mar 2016 19:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Looking forward to trying The Grid Beta.  More to come...</p>]]></description>
-            <link>http://www.dangrimm.com/fdd44153-5af8-4aeb-940b-6bb397afa218/index.html</link>
+            <link>http://dangrimm.com/fdd44153-5af8-4aeb-940b-6bb397afa218/index.html</link>
             <guid isPermaLink="false">fdd44153-5af8-4aeb-940b-6bb397afa218</guid>
             <pubDate>Mon, 14 Mar 2016 02:07:29 GMT</pubDate>
         </item>
